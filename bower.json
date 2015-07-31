@@ -1,12 +1,20 @@
 {
   "name": "webfontloader",
-  "description": "Web Font Loader gives you added control when using linked fonts via @font-face.",
+  "main": "webfontloader.js",
   "version": "1.6.5",
-  "main": ["./webfontloader.js"],
-  "keywords": [],
-  "license": "https://github.com/armandocanals/webfontloader/blob/master/LICENSE",
-  "authors": [],
-  "homepage": "https://github.com/typekit/webfontloader",
-  "repository": {"type":"git","url":"https://github.com/armandocanals/webfontloader.git"},
-  "location": "git://github.com/armandocanals/webfontloader.git"
+  "homepage": "https://github.com/armandocanals/webfontloader",
+  "authors": [
+    "Adobe",
+    "Google"
+  ],
+  "description": "Web Font Loader gives you added control when using linked fonts via @font-face.",
+  "license": "Apache2.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
