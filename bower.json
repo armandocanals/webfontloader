@@ -1,6 +1,6 @@
 {
   "name": "webfontloader",
-  "main": "webfontloader.js",
+  "main": ["./webfontloader.js"],
   "version": "1.6.5",
   "homepage": "https://github.com/armandocanals/webfontloader",
   "authors": [
